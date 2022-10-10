@@ -22,8 +22,8 @@
   "homepage": "https://github.com/naomi-lgbt/compliment-bot#readme",
   "devDependencies": {
     "@types/node": "18.8.1",
-    "@typescript-eslint/eslint-plugin": "5.39.0",
-    "@typescript-eslint/parser": "5.39.0",
+    "@typescript-eslint/eslint-plugin": "5.40.0",
+    "@typescript-eslint/parser": "5.40.0",
     "eslint": "8.25.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-import": "2.26.0",
