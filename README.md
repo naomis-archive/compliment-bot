@@ -1,12 +1,10 @@
-# Project Name
+# Compliment Bot
 
-Project Description
+This is a bot which allows my community members to send anonymous compliments - built at their request.
 
 ## Live Version
 
-This page is not yet deployed.
-
-<!--This page is currently deployed. [View the live website.]()-->
+This page is currently deployed. [View the live website.](https://chat.naomi.lgbt)
 
 ## Feedback and Bugs
 
